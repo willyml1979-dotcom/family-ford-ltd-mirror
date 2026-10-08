@@ -1,6 +1,6 @@
 {
   "dealership": "Family Ford Ltd",
-  "generated_at": "2026-09-26T19:31:59",
+  "generated_at": "2026-10-08T14:37:00",
   "vehicle_count": 103,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,7 +20,9 @@
       "year": 2014,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2015 Porsche Cayman 3.4L H6 | No Accidents | BC Car | Great Price",
@@ -37,7 +39,9 @@
       "year": 2015,
       "make": "Porsche",
       "model": "Cayman 3.4L H6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Equinox FWD | 2.4L 4 cyl. | Finance Eligible Low Payments",
@@ -54,7 +58,9 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Equinox FWD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape 4WD | Moon Roof | Navigation | Tow pkg | 2.0LTurbo",
@@ -71,13 +77,16 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape 4WD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Escape SE | 4WD | Navigation |  BC Car | No Accidents",
       "vin": "1FMCU9GDXKUC11681",
       "stock": "94733",
       "color": "White",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/cfd0a4660eff.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2019/ford/escape/parksville/bc/71282604/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2019/ford/escape/parksville/bc/71282604/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +96,17 @@
       "odometer_km": 60441,
       "year": 2019,
       "make": "Ford",
-      "model": "Escape SE",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Frontier King Cab BC Truck | Clean | No Accidents | Great Service",
       "vin": "1N6AD0CW0KN709832",
       "stock": "26201A",
       "color": "Grey",
+      "trim": "King BC Truck",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/66f36a24ce15.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2019/nissan/frontier-king-cab/parksville/bc/71344111/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2019/nissan/frontier-king-cab/parksville/bc/71344111/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,13 +116,16 @@
       "odometer_km": 69525,
       "year": 2019,
       "make": "Nissan",
-      "model": "Frontier King Cab BC Truck",
-      "condition": "used"
+      "model": "Frontier",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 5.7L V8 | Heated Cooled Leather | Moonroof | Clean",
       "vin": "1C6SRFLT6LN108919",
       "stock": "26214A",
+      "trim": "V8",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/5a0ee0b93b49.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2020/ram/1500/parksville/bc/70863533/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2020/ram/1500/parksville/bc/70863533/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -120,14 +135,17 @@
       "odometer_km": 144605,
       "year": 2020,
       "make": "RAM",
-      "model": "1500 5.7L V8",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Tundra CrewMax SR5 | Crew Max | 4x4 | BC Truck | Finance Avail",
       "vin": "5TFDY5F19LX873782",
       "stock": "26202A",
       "color": "Black",
+      "trim": "SR5",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/05f4666032d3.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2020/toyota/tundra-crewmax/parksville/bc/71161569/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2020/toyota/tundra-crewmax/parksville/bc/71161569/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -137,14 +155,17 @@
       "odometer_km": 178235,
       "year": 2020,
       "make": "Toyota",
-      "model": "Tundra CrewMax SR5",
-      "condition": "used"
+      "model": "Tundra",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Escape Hybrid AWD Hybrid | S-Roof | TowPkg | Nav. | Adapt Cruise",
       "vin": "1FMCU9CZ4MUA01601",
       "stock": "94737",
       "color": "Red",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/cf8d082339c3.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2021/ford/escape-hybrid/parksville/bc/71373114/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2021/ford/escape-hybrid/parksville/bc/71373114/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -154,14 +175,17 @@
       "odometer_km": 120842,
       "year": 2021,
       "make": "Ford",
-      "model": "Escape Hybrid AWD Hybrid",
-      "condition": "used"
+      "model": "Escape Hybrid",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Crew Cab 5.7L V8 |Moonroof | Tow Pkg | Premium Sound System",
       "vin": "1C6SRFLT3MN519602",
       "stock": "26152A",
       "color": "Silver",
+      "trim": "V8",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/2eb347e2e4a5.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2021/ram/1500-crew-cab/parksville/bc/71179366/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2021/ram/1500-crew-cab/parksville/bc/71179366/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -171,14 +195,17 @@
       "odometer_km": 62688,
       "year": 2021,
       "make": "RAM",
-      "model": "1500 Crew Cab 5.7L V8",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Navigator HD Tow Pkg | 2nd Row Massage | Monochromatic PKG",
       "vin": "5LMJJ2LT5NEL02907",
       "stock": "94730",
       "color": "Black",
+      "trim": "HD Tow Pkg",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/2eb2e9d24a75.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2022/lincoln/navigator/parksville/bc/71220261/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2022/lincoln/navigator/parksville/bc/71220261/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -188,14 +215,17 @@
       "odometer_km": 58640,
       "year": 2022,
       "make": "Lincoln",
-      "model": "Navigator HD Tow Pkg",
-      "condition": "used"
+      "model": "Navigator",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Rare 2 Door | Retractable Top | Heated Seats | 2.3",
       "vin": "1FMDE5AH0PLB11060",
       "stock": "94735",
       "color": "Black Fuel Type Gas",
+      "trim": "Rare 2 Door",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/cbfff220f031.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2023/ford/bronco/parksville/bc/71344113/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2023/ford/bronco/parksville/bc/71344113/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -205,8 +235,10 @@
       "odometer_km": 26353,
       "year": 2023,
       "make": "Ford",
-      "model": "Bronco Rare 2 Door",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Maverick Hybrid | FWD | XLT Luxury Package | Trailer Towing",
@@ -223,7 +255,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Maverick Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2023   Harley Davidson | Tri Glide Ultra | Immaculate",
@@ -240,13 +274,16 @@
       "year": 2023,
       "make": "Harley",
       "model": "Davidson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Wrangler Unlimited 6-Spd Manual | Nav & Sound Pkg | Convert. Hard Top",
       "vin": "1C4HJXDG0PW560088",
       "stock": "94712",
       "color": "Green",
+      "trim": "Unlimited 6-Spd Manual",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/a809418912f8.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2023/jeep/wrangler-unlimited/parksville/bc/70921318/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2023/jeep/wrangler-unlimited/parksville/bc/70921318/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -256,14 +293,17 @@
       "odometer_km": 20284,
       "year": 2023,
       "make": "Jeep",
-      "model": "Wrangler Unlimited 6-Spd Manual",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 SuperCrew XLT 4WD SuperCrew 5.5' Box",
       "vin": "1FTFW3L86RKF48470",
       "stock": "94727",
       "color": "Black",
+      "trim": "XLT 5.5' Box",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/0422d05b5987.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2024/ford/f-150-supercrew/parksville/bc/71315731/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2024/ford/f-150-supercrew/parksville/bc/71315731/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -273,14 +313,17 @@
       "odometer_km": 8112,
       "year": 2024,
       "make": "Ford",
-      "model": "F-150 SuperCrew XLT 4WD SuperCrew 5.5' Box",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Maverick AWD FX4  w/XLT Luxury Pkg | 4K Tow Pkg | Moon Roof",
       "vin": "3FTTW8J90RRA07812",
       "stock": "94726",
       "color": "White",
+      "trim": "FX4",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/c9daffd38932.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2024/ford/maverick/parksville/bc/71208503/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2024/ford/maverick/parksville/bc/71208503/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -290,14 +333,17 @@
       "odometer_km": 40471,
       "year": 2024,
       "make": "Ford",
-      "model": "Maverick AWD FX4  w/XLT Luxury Pkg",
-      "condition": "used"
+      "model": "Maverick",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport Moonroof | Tech Package | Terrain Management Syste",
       "vin": "3FMCR9DA5SRF74747",
       "stock": "94736",
       "color": "Blue",
+      "trim": "Moonroof",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/a2f7f80383a8.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2025/ford/bronco-sport/parksville/bc/71344112/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2025/ford/bronco-sport/parksville/bc/71344112/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -307,14 +353,17 @@
       "odometer_km": 2100,
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco Sport Moonroof",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 SuperCrew 3.5L V6 ECOBOOST | FX4 PKG | LEATHER",
       "vin": "1FTFW6L84SFA59372",
       "stock": "94723",
       "color": "Blue",
+      "trim": "V6 ECOBOOST",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/5d3d21625a83.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2025/ford/f-150-supercrew/parksville/bc/71077646/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2025/ford/f-150-supercrew/parksville/bc/71077646/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -324,14 +373,17 @@
       "odometer_km": 18425,
       "year": 2025,
       "make": "Ford",
-      "model": "F-150 SuperCrew 3.5L V6 ECOBOOST",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew 302A w/ Black Appear Pkg. | Long 6.5' Box | 3.5L",
       "vin": "1FTFW3L88TFA77003",
       "stock": "94698A",
       "color": "Black",
+      "trim": "302A",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/fde2d390b5bf.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-150-supercrew/parksville/bc/71271818/?sale_class=used",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-150-supercrew/parksville/bc/71271818/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -341,14 +393,17 @@
       "odometer_km": 9496,
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 SuperCrew 302A w/ Black Appear Pkg.",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bend 4x4",
       "vin": "3FMCR9BN1TRE09138",
       "stock": "26034",
       "color": "Grey",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/b0b34deb7f1b.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/bronco-sport/parksville/bc/68970554/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/bronco-sport/parksville/bc/68970554/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -358,8 +413,10 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -376,7 +433,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -393,7 +452,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -410,7 +471,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -427,7 +490,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -444,7 +509,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -461,7 +528,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -478,7 +547,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -495,7 +566,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -512,7 +585,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -529,7 +604,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -546,7 +623,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -563,7 +642,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -580,7 +661,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -597,7 +680,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -614,7 +699,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -631,7 +718,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -648,7 +737,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -665,7 +756,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -682,7 +775,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -699,7 +794,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -716,7 +813,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -733,7 +832,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -750,7 +851,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -767,13 +870,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Raptor ",
       "vin": "1FTFW1RGXTFC14090",
       "stock": "26251",
       "color": "Black",
+      "trim": "Raptor",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/7f9592c86870.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-150-raptor/parksville/bc/71248882/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-150-raptor/parksville/bc/71248882/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -783,8 +889,10 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Raptor",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -801,7 +909,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -818,7 +928,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -835,7 +947,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -852,7 +966,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -869,7 +985,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -886,7 +1004,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -903,7 +1023,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -920,7 +1042,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -937,7 +1061,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -954,7 +1080,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -971,7 +1099,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -988,7 +1118,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -1005,7 +1137,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -1022,7 +1156,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -1039,7 +1175,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -1056,7 +1194,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -1073,7 +1213,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -1090,7 +1232,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -1107,7 +1251,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 SuperCrew ",
@@ -1124,13 +1270,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 SuperCrew",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 Super Duty ",
       "vin": "1FT8W3BM0TEE30623",
       "stock": "26118",
       "color": "Grey",
+      "trim": "Super Duty",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/bc5926840d06.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/69816286/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/69816286/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1140,14 +1289,17 @@
       "odometer_km": 2434,
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 Super Duty",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 Super Duty ",
       "vin": "1FT8W3BT3TEE37931",
       "stock": "26153",
       "color": "White",
+      "trim": "Super Duty",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/f4cf51e214a2.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/70096806/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/70096806/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1157,14 +1309,17 @@
       "odometer_km": 71,
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 Super Duty",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 Super Duty ",
       "vin": "1FT8W3BM8TEE89659",
       "stock": "26174",
       "color": "Red",
+      "trim": "Super Duty",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/ab636fb6eabc.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/70414032/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/70414032/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1174,14 +1329,17 @@
       "odometer_km": 75,
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 Super Duty",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 Super Duty ",
       "vin": "1FT8W3BM1TEF46686",
       "stock": "26221",
       "color": "Black",
+      "trim": "Super Duty",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/7b3b5aa1e695.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/70900220/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/70900220/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1191,14 +1349,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 Super Duty",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 Super Duty ",
       "vin": "1FT8W3BMXTEF40515",
       "stock": "26215",
       "color": "Red",
+      "trim": "Super Duty",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/261f3aa4fc2e.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/70900228/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/70900228/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1208,14 +1369,17 @@
       "odometer_km": 39,
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 Super Duty",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 Super Duty ",
       "vin": "1FT8W3BT7TED97580",
       "stock": "26260",
       "color": "Black",
+      "trim": "Super Duty",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/bab8420b32fc.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/71258594/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/f-350-super-duty/parksville/bc/71258594/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1225,8 +1389,10 @@
       "odometer_km": 98,
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 Super Duty",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1243,7 +1409,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1260,13 +1428,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Convertible ",
       "vin": "1FAGP8FF9T5125290",
       "stock": "26169",
       "color": "Black Fuel Type Gas",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/70a6ec8744e9.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/mustang-convertible/parksville/bc/70414034/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/mustang-convertible/parksville/bc/70414034/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1276,14 +1447,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Convertible",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Fastback ",
       "vin": "1FA6P8CF2T5410364",
       "stock": "26176",
       "color": "Grey Fuel Type Gas",
+      "trim": "Fastback",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/25aa13bc000b.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/mustang-fastback/parksville/bc/70414029/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/mustang-fastback/parksville/bc/70414029/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1293,8 +1467,10 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Fastback",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1311,7 +1487,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1328,7 +1506,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1345,7 +1525,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1362,7 +1544,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1379,7 +1563,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1396,7 +1582,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1413,7 +1601,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1430,7 +1620,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1447,7 +1639,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1463,7 +1657,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1479,7 +1675,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1496,7 +1694,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1513,7 +1713,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1529,7 +1731,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1546,7 +1750,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1563,7 +1769,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1580,13 +1788,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger Raptor ",
       "vin": "1FTER4LRXTLE37195",
       "stock": "26203",
       "color": "Grey",
+      "trim": "Raptor",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/10c9f2c2f947.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2026/ford/ranger-raptor/parksville/bc/70712522/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2026/ford/ranger-raptor/parksville/bc/70712522/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1596,8 +1807,10 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger Raptor",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -1614,7 +1827,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -1631,7 +1846,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -1648,7 +1865,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -1665,7 +1884,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -1682,7 +1903,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1699,7 +1922,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1716,13 +1941,16 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Ford F-350 Super Duty ",
       "vin": "1FT8W3BM1VEC20776",
       "stock": "27003",
       "color": "Black",
+      "trim": "Super Duty",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/91ce6c958cda.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2027/ford/f-350-super-duty/parksville/bc/71258595/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2027/ford/f-350-super-duty/parksville/bc/71258595/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1732,14 +1960,17 @@
       "odometer_km": 16,
       "year": 2027,
       "make": "Ford",
-      "model": "F-350 Super Duty",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Transit Cargo Van ",
       "vin": "1FTBW9C82VKA07072",
       "stock": "27000",
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/c40753c7a2f9.html",
       "source_url": "https://www.ourfamilyford.com/vehicles/2027/ford/transit-cargo-van/parksville/bc/71010317/?sale_class=new",
       "dealer_url": "https://www.ourfamilyford.com/vehicles/2027/ford/transit-cargo-van/parksville/bc/71010317/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1749,8 +1980,10 @@
       "odometer_km": 41,
       "year": 2027,
       "make": "Ford",
-      "model": "Transit Cargo Van",
-      "condition": "new"
+      "model": "Transit Cargo",
+      "condition": "new",
+      "city": "Parksville",
+      "province": "BC"
     }
   ]
 }
