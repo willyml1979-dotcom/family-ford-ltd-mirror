@@ -1,10 +1,18 @@
 {
   "dealership": "Family Ford Ltd",
-  "generated_at": "2026-10-25T13:44:47",
+  "generated_at": "2026-10-25T13:58:31",
   "vehicle_count": 154,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Ford Bronco Sport Badlandsin Parksville",
+      "vin": "3FMCR9DA8TRF00272",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/426dceb3f1da.html",
+      "condition": "new",
+      "price": 47705.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Ford Bronco Sport Badlandsin Parksville",
       "vin": "3FMCR9DA5TRF12413",
@@ -335,17 +343,6 @@
       "name": "2019 Ford Escape ",
       "vin": "1FMCU9GDXKUC11681",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/2703e7148e33.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/ed1538352892.html",
       "year": 2019,
       "make": "Ford",
       "model": "Escape",
@@ -882,149 +879,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/d33fef22552c.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/10c9f2c2f947.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/d9c8c1b2cee6.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/339490f9662d.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/d05a3b6a631f.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/f3787ebf78ed.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/ff98a5713163.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/5f4ce558dc18.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/4419528e6ead.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/91ce6c958cda.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/c40753c7a2f9.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/6d306bb62bd3.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/a3dfcf13c050.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Mercedes-Benz GLC 300in Parksville",
       "vin": "WDC0J8EBXLF680779",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/596ddf13b676.html",
@@ -1076,6 +930,160 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/ed1538352892.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/d33fef22552c.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/10c9f2c2f947.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/d9c8c1b2cee6.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/339490f9662d.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/d05a3b6a631f.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/f3787ebf78ed.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/ff98a5713163.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/5f4ce558dc18.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/4419528e6ead.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/91ce6c958cda.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/c40753c7a2f9.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/6d306bb62bd3.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 19998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Escape ",
+      "vin": "1FMCU9CZ4MUA01601",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/a3dfcf13c050.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
       "price": 19998.0,
       "price_currency": "CAD"
     },
@@ -1297,17 +1305,6 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 33035.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Badlandsin Parksville",
-      "vin": "3FMCR9DA8TRF00272",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/426dceb3f1da.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 47705.0,
       "price_currency": "CAD"
     },
     {
