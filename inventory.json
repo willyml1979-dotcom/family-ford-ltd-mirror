@@ -1,6 +1,6 @@
 {
   "dealership": "Family Ford Ltd",
-  "generated_at": "2026-10-25T13:58:31",
+  "generated_at": "2026-10-25T23:28:01",
   "vehicle_count": 154,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1161,7 +1161,7 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 43498.0,
+      "price": 41998.0,
       "price_currency": "CAD"
     },
     {
@@ -1172,7 +1172,7 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 43498.0,
+      "price": 41998.0,
       "price_currency": "CAD"
     },
     {
