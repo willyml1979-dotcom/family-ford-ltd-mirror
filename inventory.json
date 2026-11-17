@@ -1,7 +1,7 @@
 {
   "dealership": "Family Ford Ltd",
-  "generated_at": "2026-11-17T09:24:49",
-  "vehicle_count": 155,
+  "generated_at": "2026-11-17T09:40:05",
+  "vehicle_count": 158,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -102,6 +102,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/6830e82da768.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/3a7f11347943.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 Ford Transit Connect Wagon XLTin Parksville",
       "vin": "NM0GE9F70E1162833",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/fe9aafbca983.html",
@@ -110,28 +126,6 @@
       "model": "Transit Connect",
       "condition": "used",
       "price": 16998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/6830e82da768.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/3a7f11347943.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
       "price_currency": "CAD"
     },
     {
@@ -1213,25 +1207,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banksin Parksville",
+      "name": "New 2026 Ford Bronco Sport Outer Banksin Parksville",
       "vin": "3FMCR9CN7TRF12384",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/dd713b9ed678.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 46355.0,
+      "price": 45605.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend 4x4in Parksville",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Parksville",
       "vin": "3FMCR9BN1TRE09138",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/5a60fddc37cd.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 33035.0,
+      "price": 33785.0,
       "price_currency": "CAD"
     },
     {
@@ -1246,25 +1240,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bendin Parksville",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Parksville",
       "vin": "3FMCR9BN6TRE19227",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/29e85b786e77.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 35781.0,
+      "price": 35031.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banksin Parksville",
+      "name": "New 2026 Ford Bronco Sport Outer Banksin Parksville",
       "vin": "3FMCR9CN9TRF11558",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/074c831c38f9.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 41315.0,
+      "price": 40565.0,
       "price_currency": "CAD"
     },
     {
@@ -1290,69 +1284,69 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bendin Parksville",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4X4in Parksville",
       "vin": "3FMCR9BN2TRE70093",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/290da6549828.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 35693.0,
+      "price": 34943.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bendin Parksville",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Parksville",
       "vin": "3FMCR9BN6TRF11857",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/11bed1317cf1.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 38860.0,
+      "price": 38110.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banksin Parksville",
+      "name": "New 2026 Ford Bronco Sport Outer Banksin Parksville",
       "vin": "3FMCR9CN4TRF11659",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/32943c090e34.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 49420.0,
+      "price": 48670.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Badlandsin Parksville",
+      "name": "New 2026 Ford Bronco Sport Badlandsin Parksville",
       "vin": "3FMCR9DA3TRF11860",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/1b681a8c49ae.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 46485.0,
+      "price": 45735.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banksin Parksville",
+      "name": "New 2026 Ford Bronco Sport Outer Banksin Parksville",
       "vin": "3FMCR9CN9TRF37299",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/61388ad62ac1.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 41985.0,
+      "price": 41235.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bendin Parksville",
+      "name": "New 2026 Ford Bronco Sport Big Bendin Parksville",
       "vin": "3FMCR9BN9TRF11688",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/7b93f7da4128.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 39980.0,
+      "price": 39230.0,
       "price_currency": "CAD"
     },
     {
@@ -1367,14 +1361,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Badlandsin Parksville",
+      "name": "New 2026 Ford Bronco Sport Badlandsin Parksville",
       "vin": "3FMCR9DA9TRF33457",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/69275603f992.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 46485.0,
+      "price": 45735.0,
       "price_currency": "CAD"
     },
     {
@@ -1422,14 +1416,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick Tremorin Parksville",
+      "name": "New 2026 Ford Maverick Tremorin Parksville",
       "vin": "3FTTW8NA2TRB15750",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/78273f1c2677.html",
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
       "condition": "new",
-      "price": 50695.0,
+      "price": 49695.0,
       "price_currency": "CAD"
     },
     {
@@ -1639,6 +1633,39 @@
       "model": "Mustang Mach-E",
       "condition": "new",
       "price": 45585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Parksville",
+      "vin": "3FMTK3SU9TMA30006",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/f1a5759e316e.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 45130.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Parksville",
+      "vin": "3FMTK3S5XTMA29682",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/66992f2352e4.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 40930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Parksville",
+      "vin": "3FMTK3S54TMA30827",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/7cb8e37304da.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 40130.0,
       "price_currency": "CAD"
     },
     {
