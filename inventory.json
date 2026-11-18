@@ -1,7 +1,7 @@
 {
   "dealership": "Family Ford Ltd",
-  "generated_at": "2026-11-17T09:40:05",
-  "vehicle_count": 158,
+  "generated_at": "2026-11-18T00:40:33",
+  "vehicle_count": 160,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -27,6 +27,14 @@
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/5ad4f81a0b48.html",
       "condition": "used",
       "price": 51998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2020 for salein Parksville",
+      "vin": "1FMCU9H96LUC46147",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/2b49d6a45ed0.html",
+      "condition": "used",
+      "price": 23998.0,
       "price_currency": "CAD"
     },
     {
@@ -610,6 +618,17 @@
       "model": "Silverado 3500HD",
       "condition": "used",
       "price": 51998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Ford Escape SELin Parksville",
+      "vin": "1FMCU9H96LUC46147",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/0147bb542cb4.html",
+      "year": 2020,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 23998.0,
       "price_currency": "CAD"
     },
     {
