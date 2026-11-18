@@ -1,6 +1,6 @@
 {
   "dealership": "Family Ford Ltd",
-  "generated_at": "2026-11-18T00:40:33",
+  "generated_at": "2026-11-18T00:55:21",
   "vehicle_count": 160,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1413,25 +1413,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport BADLANDSin Parksville",
+      "name": "New 2026 Ford Bronco Sport Badlandsin Parksville",
       "vin": "3FMCR9DA7TRF42254",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/d17399eb95fc.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 44690.0,
+      "price": 42440.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport BIG BENDin Parksville",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Parksville",
       "vin": "3FMCR9BN6TRF42879",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/14744a288fae.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 41240.0,
+      "price": 38990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Badlandsin Parksville",
+      "vin": "3FMCR9DA6TRF42259",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/fd7c95289ba8.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 44535.0,
       "price_currency": "CAD"
     },
     {
@@ -1446,17 +1457,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick XLin Parksville",
-      "vin": "3FTTW8BA2TRB29099",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/1720ef1066bb.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "new",
-      "price": 39495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Maverick XLTin Parksville",
       "vin": "3FTTW8J37TRA17059",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/26ae253c5458.html",
@@ -1468,7 +1468,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Selectin Parksville",
+      "name": "New 2026 Ford Mustang Mach-E Select AWDin Parksville",
       "vin": "3FMTK1SU3TMA20057",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/c1e3eb84df82.html",
       "year": 2026,
@@ -1501,7 +1501,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Selectin Parksville",
+      "name": "New 2026 Ford Mustang Mach-E Selectin Parksville",
       "vin": "3FMTK1S50TMA11387",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/cacef150b43f.html",
       "year": 2026,
@@ -1512,7 +1512,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Selectin Parksville",
+      "name": "New 2026 Ford Mustang Mach-E Selectin Parksville",
       "vin": "3FMTK1S5XTMA15642",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/0ef7543d3f3a.html",
       "year": 2026,
@@ -1523,7 +1523,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E PREMIUMin Parksville",
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Parksville",
       "vin": "3FMTK3SU6TMA18878",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/388c73e7cb2b.html",
       "year": 2026,
@@ -1534,7 +1534,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Selectin Parksville",
+      "name": "New 2026 Ford Mustang Mach-E Selectin Parksville",
       "vin": "3FMTK1SU1TMA23250",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/3a7f7a256b36.html",
       "year": 2026,
@@ -1545,7 +1545,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Selectin Parksville",
+      "name": "New 2026 Ford Mustang Mach-E Select AWDin Parksville",
       "vin": "3FMTK1S52TMA05445",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/eb27e95d259a.html",
       "year": 2026,
@@ -1556,7 +1556,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E PREMIUMin Parksville",
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Parksville",
       "vin": "3FMTK3SU9TMA24187",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/87ed73cd3d8e.html",
       "year": 2026,
