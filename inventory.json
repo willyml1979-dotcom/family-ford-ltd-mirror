@@ -1,7 +1,7 @@
 {
   "dealership": "Family Ford Ltd",
-  "generated_at": "2026-11-18T20:11:17",
-  "vehicle_count": 154,
+  "generated_at": "2026-11-18T20:24:09",
+  "vehicle_count": 153,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -134,6 +134,102 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/4bf2b3c30768.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/4fd6cd609f52.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/570778f13239.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/f5cf9c1f7381.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/4a536d23bf01.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/cdc17f131c6e.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/3c56aa25a4c4.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/9ab38d14dd6d.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/5f1a45564dfb.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/62f0181e466f.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/a582c543f349.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles for salein Parksville",
+      "vin": "NM0GE9F70E1162833",
+      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/498c8fd3b6f3.html",
+      "condition": "new",
+      "price": 16998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 Ford Transit Connect Wagon XLTin Parksville",
       "vin": "NM0GE9F70E1162833",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/fe9aafbca983.html",
@@ -142,138 +238,6 @@
       "model": "Transit Connect",
       "condition": "used",
       "price": 16998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/4bf2b3c30768.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/4fd6cd609f52.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/570778f13239.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/f5cf9c1f7381.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/4a536d23bf01.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/cdc17f131c6e.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/3c56aa25a4c4.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/9ab38d14dd6d.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/5f1a45564dfb.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/62f0181e466f.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/a582c543f349.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9GDXKUC11681",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/498c8fd3b6f3.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 17498.0,
       "price_currency": "CAD"
     },
     {
@@ -1377,14 +1341,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford Bronco Sport BADLANDSin Parksville",
+      "name": "New 2026 Ford Bronco Sport Badlandsin Parksville",
       "vin": "3FMCR9DA3TRF42915",
       "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/6fc65c6b9727.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 47385.0,
+      "price": 46635.0,
       "price_currency": "CAD"
     },
     {
@@ -1616,17 +1580,6 @@
       "model": "Mustang Mach-E",
       "condition": "new",
       "price": 40130.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XLin Parksville",
-      "vin": "1FTER4PH8TLE48648",
-      "url": "https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/new/5baccda540a1.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 43265.0,
       "price_currency": "CAD"
     },
     {
