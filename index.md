@@ -1,6 +1,6 @@
 # Family Ford Ltd
 
- dealership in Parksville. AI-readable inventory mirror, about 156 vehicles.
+ dealership in Parksville. AI-readable inventory mirror, about 154 vehicles.
 
 - Official website: https://www.ourfamilyford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/family-ford-ltd-mirror/used/
